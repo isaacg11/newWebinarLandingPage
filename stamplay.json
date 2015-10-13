@@ -1,0 +1,10 @@
+{
+  "appId": "webinars",
+  "apiKey": "720e92ff0f5f1192dea049a7aacb741ab552c33d0c1be3c45608361e4f1810a9",
+  "public": "./",
+  "ignore": [
+    "stamplay.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
