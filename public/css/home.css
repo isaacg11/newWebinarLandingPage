@@ -4,18 +4,11 @@ html, body {
 	background-size:100vw auto;
 	background-position: center center;
 }
-#header{
-	height: 50px;
-	width: 80px;
-	position: absolute;
-	top: 150px;
-	left: 663px;
 
-}
 #signUpSection{
 position: absolute;
-bottom: 80px;
-left: calc(50% - 430px);
+bottom: 100px;
+left: calc(50% - 540px);
 font-family: "Quicksand";
 text-align: center;
 }
